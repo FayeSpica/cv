@@ -1,3 +1,3 @@
 # cv
 CV
-<embed src="resume.pdf" width="425" height="425">
+[CV](https://github.com/SteiensGate/cv/blob/master/resume.pdf)
